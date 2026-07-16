@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
