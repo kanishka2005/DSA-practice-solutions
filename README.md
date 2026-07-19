@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0443-string-compression) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
