@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
