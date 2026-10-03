@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
