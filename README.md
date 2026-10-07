@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
