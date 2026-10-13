@@ -1,27 +1,23 @@
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
-        int low = 0;
-        int high = 0;
         double currentSum = 0;
         
-        // Step 1: Pehli window banane ke liye high ko k tak chalate hain
-        while (high < k) {
-            currentSum += nums[high];
-            high++;
+        // Step 1: Pehli window ka sum calculate karo
+        for (int i = 0; i < k; i++) {
+            currentSum += nums[i];
         }
         
         double maxSum = currentSum;
         
-        // Step 2: Window ko aage slide karne ke liye loop
-        while (high < nums.length) {
-            currentSum = currentSum + nums[high] - nums[low];
-            maxSum = Math.max(maxSum, currentSum);
-            
-            low++;
-            high++;
+        // Step 2: Single loop se window ko slide karo (no extra variables needed)
+        for (int i = k; i < nums.length; i++) {
+            currentSum = currentSum + nums[i] - nums[i - k];
+            if (currentSum > maxSum) {
+                maxSum = currentSum;
+            }
         }
         
-        // Step 3: Maximum average return karo
+        // Step 3: Result return karo
         return maxSum / k;
     }
 }
