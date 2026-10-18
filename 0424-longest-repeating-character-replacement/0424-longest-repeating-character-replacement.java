@@ -1,24 +1,23 @@
-import java.util.HashMap;
-import java.util.Map;
 class Solution {
     public int characterReplacement(String s, int k) {
-        Map<Character, Integer> countMap = new HashMap<>();
-        int left = 0; int maxCount = 0; int maxLength = 0;
+        int[] count = new int[256]; //frequency array
+        int left = 0;
+        int maxCount = 0; // Current window mein max frequency chr.
+        int res = 0;
         for (int right = 0; right < s.length(); right++) {
-            char currentChar = s.charAt(right);
-            // Character ki frequency map mein update
-            countMap.put(currentChar, countMap.getOrDefault(currentChar, 0) + 1);
-            // Window ke andar kisi bhi character ki max frequency track
-            maxCount = Math.max(maxCount, countMap.get(currentChar));
-            // Agar replacements 'k' se zyada ho jayein, toh window ko left se chhota karein
+            char currentChar = s.charAt(right); //f[s[high]]++
+            // Frequency increment karein
+            count[currentChar]++;
+            // Max count ko update karein
+            maxCount = Math.max(maxCount, count[currentChar]);
+            // Agar badalne wale characters 'k' se zyada ho gaye, toh window shrink karo
             while ((right - left + 1) - maxCount > k) {
-                char leftChar = s.charAt(left);
-                countMap.put(leftChar, countMap.get(leftChar) - 1);
+                count[s.charAt(left) ]--;
                 left++;
             }
-            // Maximum valid window length ko update karein
-            maxLength = Math.max(maxLength, right - left + 1);
+            // Max length ko update karo
+            res = Math.max(res, right - left + 1);
         }
-        return maxLength;
+        return res;
     }
 }
