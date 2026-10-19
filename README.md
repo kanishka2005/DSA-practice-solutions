@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0283-move-zeroes) |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
