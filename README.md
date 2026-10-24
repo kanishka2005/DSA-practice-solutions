@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0443-string-compression) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0136-single-number) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## String Matching
 |  |
 | ------- |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/kanishka2005/DSA-practice-solutions/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 <!---LeetCode Topics End-->
